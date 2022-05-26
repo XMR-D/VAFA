@@ -1,0 +1,48 @@
+Welcome to the manual of utilisation.
+
+----------------------------MATH PART------------------------------------
+
+The math part is composed of two functionalities :
+
+"Calculatrice" - which is a simple calculator.
+
+"Fonctions" - Wich is a plotting algorithm which       
+	      allow you to plot up to 3 functions.
+	      to use it just write expressions in 
+	      the differents fields ('*' for multiplication)
+	      to delete a character press the arrow next to the field.
+
+----------------------------CRYPTO PART-----------------------------------
+The crypto part have 4 algorithms :
+
+"Chiffrement César" : You need to specify a word and a rotation.
+
+"Chiffrement Vigenère" : You need to specify a word to cipher, 
+			  and a word to use as a key
+			  (THE KEY MUST NOT CONTAIN ANY CAPITALS OR SYMBOLS).
+
+"RSA" : You need to specify a word to cipher.
+
+"SHA-256" : You need to specify a word to hash.
+----------------------------GRAPH PART------------------------------------
+
+"Parcours largeur" : specify the path of a .dot file.
+		     (if the file specifed is invalid an error occurs).
+
+
+"Parcours profondeur" : specify the path of a .dot file
+		     (if the file specifed is invalid an error occurs).
+
+
+----------------------------TREE PART-------------------------------------
+
+
+"Parcours largeur" : specify the path of a .dot file 
+		     (if the graph contain a cycle or the graph is not connex an error occurs).
+		     (if the file specifed is invalid an error occurs).
+
+"Parcours profondeur" : specify the path of a .dot file
+			(if the graph contain a cycle or the graph is not connex an error occurs).
+		        (if the file specifed is invalid an error occurs).
+			
+	      

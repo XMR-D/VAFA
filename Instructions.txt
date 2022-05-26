@@ -1,0 +1,21 @@
+Welcome to the instructions to properly install and use VAFA !
+
+first you need to install the librairies.
+
+Vafa use 2 main libraries : CSFML (ver 2.5.0) and graphviz,
+
+Step 1 :- To install CSFML : Go into the Libraries folder, then into the CSFML (Ver 2.5) folder,
+			      copy all the files of "lib" in the folder where .so files are, on your 				  
+			      computer (usually here : root/usr/lib or root/lib).
+			      and copy all the "includes" files and folders into "root/include"
+			      
+			      if you enconter an issue please refer to : https://www.sfml-dev.org/download/csfml/ to further help
+			    
+			      
+			      
+Step 2 :- to install graphviz : execute this command on a linux shell : "sudo apt install graphviz"
+
+
+If everything work you should be able to compile and execute the project.
+
+Thanks for using VAFA !
